@@ -47,7 +47,3 @@ python main.py
 
 ## 📢 License
 No license. Go wild, go stupid.
-
----
-
-# 🖕 Fuck Around and Find Out
