@@ -1,4 +1,4 @@
-# 🤬 Fucking Shutdown
+# 🤬 F__king Shutdown
 
 ### 🔥 A spicy little Python prank that will literally shut your PC down if you show the middle finger to your webcam. Handle with care. 💀
 
